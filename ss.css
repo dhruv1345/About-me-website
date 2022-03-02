@@ -1,0 +1,301 @@
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+    padding: 0;
+    height: 610px;
+}
+
+.intro{
+    font-size: x-large;
+    line-height: 1.8;
+}
+span{
+    font-size: xxx-large;
+    text-decoration: underline;
+
+}
+.image{
+    width: 25%;
+    border-radius: 60%;
+    width: 20%;
+    position: relative;
+    right: 300px;
+    bottom: 0px;
+}
+
+
+.middle-container{
+    background-color: #F7F7F7;
+    
+}
+.Python{
+    border-radius: 60%;
+    height: 30%;
+    width: 20%;
+    position: absolute;
+    right: 200px;
+    position: relative;
+    bottom: 100px;
+    left: 350px;
+}
+
+.we{
+    text-decoration: underline;
+    font-size: 27px;
+    color: #11999e;
+    position: relative;
+    bottom: 200px;
+    left: 120px;
+
+}
+
+.py{
+    text-decoration: underline;
+    color: #11999e;
+    margin-top: 50px;
+    font-size: 27px;
+    font-family: 'PT Serif', serif;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 100;
+    position: relative;
+    bottom: 300px;
+    right: 50px;
+}
+
+.contact{
+    color: #219F94;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+
+.skill{
+    color: #219F94;
+    padding-top: 10px;
+    text-decoration: underline;   
+}
+
+.Hello{
+    color: #219F94;
+}
+
+.h2{
+    color: #66bfbf;
+}
+
+.web1{
+    position: relative;
+    bottom: 300px;
+    width: 30%;
+    padding-left: 400px;
+    font-size: large;
+    line-height: 1.8;
+}
+.web{
+    font-size: large;
+    line-height: 1.8;
+    width: 50%;
+    text-align: center;
+    position: relative;
+    left: 490px;
+    bottom: 200px;
+}
+
+.mypic{
+    height: 250px;
+    width: 250px;
+    padding-top: 20px;
+    border-radius: 50%;
+}
+
+.contact{
+    text-decoration: underline;
+    padding-top: 20px;
+}
+
+h1{
+    color: #66bfbf;
+    position: absolute;
+    top: 200px;
+    margin-top: 30px;
+    font-family: 'Sacramento', cursive;
+    position: absolute;
+    right: 480px;
+    top: 50px;
+    font-size: 100px;
+
+}
+
+body{
+    text-align: center;
+    margin: 0%;
+}
+
+.mou{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    left: 110px;
+    top: 300px;
+}
+
+.cc{
+    position: absolute;
+    bottom: 300px;
+    height: 100px;
+    width: 200px;
+    position: absolute;
+    right: 1000px;
+    bottom: 300px;
+}
+
+.c1{
+    position: absolute;
+    bottom: 124px;
+    height: 100px;
+    width: 200px;
+    position: relative;
+    left: 220px;
+}
+
+.bottom-container{
+    background-color: antiquewhite;
+    height: 100px;
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 9px 15px 9px 18px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cfcc6;
+    background-image: -webkit-linear-gradient(top, #3cfcc6, #3498db);
+    background-image: -moz-linear-gradient(top, #3cfcc6, #3498db);
+    background-image: -ms-linear-gradient(top, #3cfcc6, #3498db);
+    background-image: -o-linear-gradient(top, #3cfcc6, #3498db);
+    background-image: linear-gradient(to bottom, #3cfcc6, #3498db);
+    text-decoration: none;
+  }
+
+  .btn1 {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 9px 15px 9px 18px;
+    text-decoration: none;
+  }
+  
+  .btn1:hover {
+    background: #3cfcc6;
+    background-image: -webkit-linear-gradient(top, #3cfcc6, #3498db);
+    background-image: -moz-linear-gradient(top, #3cfcc6, #3498db);
+    background-image: -ms-linear-gradient(top, #3cfcc6, #3498db);
+    background-image: -o-linear-gradient(top, #3cfcc6, #3498db);
+    background-image: linear-gradient(to bottom, #3cfcc6, #3498db);
+    text-decoration: none;
+  }
+  .btn2 {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 9px 15px 9px 18px;
+    text-decoration: none;
+  }
+  
+  .btn2:hover {
+    background: #3cfcc6;
+    background-image: -webkit-linear-gradient(top, #3cfcc6, #3498db);
+    background-image: -moz-linear-gradient(top, #3cfcc6, #3498db);
+    background-image: -ms-linear-gradient(top, #3cfcc6, #3498db);
+    background-image: -o-linear-gradient(top, #3cfcc6, #3498db);
+    background-image: linear-gradient(to bottom, #3cfcc6, #3498db);
+    text-decoration: none;
+  }
+
+.contact-me{
+    height: 150px;
+    background-color: antiquewhite;
+}
+
+.bot{
+    padding-top: 50px;
+    font-family: 'Rubik', sans-serif;
+    
+    font-size: x-large;
+    padding-top: 40px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 100;
+}
+
+.btn1{
+    position: relative;
+    top: 15px;
+    right: 10px;
+}
+
+.btn2{
+    position: relative;
+    top: 15px;
+    left: 10px;
+}
+
+.btn{
+    position: relative;
+    top: 10px;
+}
+
+.font{
+    font-family: 'PT Serif', serif;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 100;
+}
+
+hr{
+    height: 0px;
+    border-style: dotted;
+    border-top: none;
+    width: 6%;
+    border-color: grey;
+    border-width: 5px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.skill-row{
+    padding-top: 30px;
+
+}
+

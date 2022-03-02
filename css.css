@@ -1,0 +1,67 @@
+body{
+    
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Sacramento', cursive;
+    background-color: aqua;
+}
+p{
+    font-size: 40px;
+    font-weight: 200;
+    background-color: aqua;
+}
+
+.me{
+    background-color: aqua;
+}
+.cloud1{
+    background-color: aqua;
+}
+.mountain{
+    position: relative;
+    top: 100px;
+    background-color: aqua;
+}
+
+.mou{
+    height: 300px;
+    width: 400px;
+    background-color: aqua;
+}
+
+.cc{
+    position: absolute;
+    bottom: 300px;
+    height: 100px;
+    width: 200px;
+    position: absolute;
+    right: 950px;
+    bottom: 400px;
+    background-color: aqua;
+}
+.c1{
+    position: absolute;
+    bottom: 300px;
+    height: 100px;
+    width: 200px;
+    position: relative;
+    left: 400px;
+    background-color: aqua;
+
+}
+
+.middle-container{
+
+}
+
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.bottom-container{
+
+}
